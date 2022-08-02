@@ -1,0 +1,13 @@
+{
+  "livePreview.defaultPreviewPath": "/index.html",
+  "tailwindCSS.includeLanguages": {
+    "html": "html",
+    "javascript": "javascript",
+    "css": "css"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "tailwindCSS.emmetCompletions": true,
+  "editor.mouseWheelZoom": true
+}
